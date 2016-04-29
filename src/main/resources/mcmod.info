@@ -1,0 +1,17 @@
+[
+{
+"modid": "TestMod",
+"name": "Test Mod",
+"description": "Work in progress mod, expect slow progress and bugs!",
+"version": "1.0",
+"credits": "Thanks Pahimar for your Let's Mod Reboot series!",
+"logoFile": "",
+"mcversion": "1.7.10",
+"url": "",
+"updateUrl": "",
+"authorList": [ "TrojanHashtag" ],
+"parent":"",
+"screenshots": [],
+"dependencies": []
+}
+]
